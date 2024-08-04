@@ -1,5 +1,4 @@
 {
-"Unicorn" = 1344,
-"Frog" = 123
-
+Unicorn = 1344,
+Frog = 123
 }
